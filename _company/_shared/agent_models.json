@@ -1,0 +1,12 @@
+{
+  "ceo": "google_gemma-4-e4b-it",
+  "secretary": "google_gemma-4-e4b-it",
+  "youtube": "qwen3.5-9b-deepseek-v4-flash",
+  "researcher": "qwen3.5-9b-deepseek-v4-flash",
+  "business": "qwen3.5-9b-deepseek-v4-flash",
+  "writer": "qwen3.5-9b-deepseek-v4-flash",
+  "editor": "qwen3.5-9b-deepseek-v4-flash",
+  "designer": "google_gemma-4-e4b-it",
+  "developer": "qwen3.5-9b-deepseek-v4-flash",
+  "instagram": "qwen3.5-9b-deepseek-v4-flash"
+}
